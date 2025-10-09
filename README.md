@@ -8,8 +8,12 @@ PL Repo
 
 系級：117科技系2年級
 
-課程筆記區、作業連結區、專題連結區
+課程筆記區
+
+作業連結區
 
 [HW1](https://github.com/chiangtinhung-rgb/Matcha/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80HW1.ipynb)
 
 [HW2](https://github.com/chiangtinhung-rgb/Matcha/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80HW2.ipynb)
+
+專題連結區
