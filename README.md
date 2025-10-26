@@ -16,4 +16,7 @@ PL Repo
 
 [HW2](https://github.com/chiangtinhung-rgb/Matcha/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80HW2.ipynb)
 
+[HW3](https://github.com/chiangtinhung-rgb/Matcha/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
+
+
 專題連結區
