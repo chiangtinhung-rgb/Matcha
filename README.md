@@ -26,7 +26,6 @@ PL Repo
 
 （作業四）文字資料小分析
 
-[最後跑程式的時候不確定為什麼旁邊跑沒有打勾完成,但最底下一樣可以跑出GRADIO畫面]
 
 [HW4](https://github.com/chiangtinhung-rgb/Matcha/blob/main/HW4_%E6%96%87%E5%AD%97%E8%B3%87%E6%96%99%E5%B0%8F%E5%88%86%E6%9E%90.ipynb)
 
