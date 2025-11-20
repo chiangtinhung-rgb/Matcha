@@ -37,3 +37,5 @@ PL Repo
 [HW6](https://github.com/chiangtinhung-rgb/Matcha/blob/main/HW6_%E8%AA%B2%E8%A1%A8%E6%9F%A5%E8%A9%A2%E8%88%87%E6%8F%90%E9%86%92%E7%B4%A0%E6%9D%90.ipynb)
 
 專題連結區
+
+[影片連結](https://www.youtube.com/watch?v=pM68D8yCT0o)
