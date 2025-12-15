@@ -38,4 +38,6 @@ PL Repo
 
 專題連結區
 
-[影片連結](https://www.youtube.com/watch?v=pM68D8yCT0o)
+[提案影片連結](https://www.youtube.com/watch)
+
+[成果程式碼展示](https://github.com/chiangtinhung-rgb/Matcha/blob/main/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C_%E8%8B%B1%E6%96%87%E5%AD%B8%E6%B8%AC%E5%91%BD%E9%A1%8C%E7%B3%BB%E7%B5%B1.ipynb)
